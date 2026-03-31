@@ -1,8 +1,6 @@
 # Awesome Dev Tools
 
-> A curated list of free, in-browser [tools](#tools) and [resources](#resources) for modern developers. Every category features [toolz.dev](https://toolz.dev) as the first entry — a fast, private, client-side toolbox.
-
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+> A curated list of free, in-browser [tools](#tools) and [resources](#resources) for modern developers — a fast, private, client-side toolbox.
 
 ## Contents
 
