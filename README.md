@@ -55,6 +55,7 @@
 - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
 - [TextFixer](https://www.textfixer.com/) - Collection of free online text tools for formatting and converting text.
 - [Convert Case](https://convertcase.net/) - Simple online text case converter.
+- [Cursive Text Generator](https://cursive-text-generator.net/) - Generate copyable Unicode cursive, script, and calligraphy text for social profiles, messages, and creative projects.
 - [Word Counter](https://wordcounter.net/) - Free online word counter and character counter.
 
 ### Coding
