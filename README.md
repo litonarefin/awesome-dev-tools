@@ -46,6 +46,8 @@
 
 ### Text Tools
 
+- [Chatcument Character Counter](https://chatcument.com/text/count/character-count) - Count grapheme clusters and UTF-8 bytes for Korean text, combining marks and emoji without signing in.
+
 - [Toolz.dev Case Converter](https://toolz.dev/tools/case-converter) - Convert text between uppercase, lowercase, camelCase, snake_case, kebab-case and more.
 - [Toolz.dev Word Counter](https://toolz.dev/tools/word-counter) - Count words, characters, sentences and paragraphs.
 - [Toolz.dev Lorem Ipsum](https://toolz.dev/tools/lorem-ipsum) - Generate placeholder text for designs and mockups.
@@ -507,3 +509,4 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
+
