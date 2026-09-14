@@ -52,6 +52,7 @@
 - [Toolz.dev Text to Handwriting](https://toolz.dev/tools/text-to-handwriting) - Convert typed text into realistic handwritten style.
 - [Toolz.dev Text Diff](https://toolz.dev/tools/text-diff) - Compare two texts and find differences at word or character level.
 - [Toolz.dev String Reverse](https://toolz.dev/tools/string-reverse) - Reverse any text string instantly.
+- [CleanText](https://cleanhiddenchars.com/) - Inspect and remove supported invisible Unicode characters and unusual spaces locally in your browser.
 - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
 - [TextFixer](https://www.textfixer.com/) - Collection of free online text tools for formatting and converting text.
 - [Convert Case](https://convertcase.net/) - Simple online text case converter.
