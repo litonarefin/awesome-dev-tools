@@ -157,6 +157,7 @@
 - [Specificity Calculator](https://specificity.keegan.st/) - Calculate CSS specificity of selectors.
 - [PX to REM Converter](https://nekocalc.com/px-to-rem-converter) - Convert pixels to rem units for responsive design.
 - [Numbr](https://numbr.dev/) - A smart calculator that understands words.
+- [Calculator Campus](https://www.calculatorcampus.com/) - Free calculators with formulas, worked examples, and embeddable widgets.
 - [CalcuNation](https://www.calcunation.com/) - Collection of free online calculators.
 
 ### Security
