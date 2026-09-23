@@ -659,6 +659,8 @@ A curated directory of **231+ free, browser-based tools** from [toolz.dev](https
 
 ---
 
+---
+
 ## Contributing
 
 Found a bug or want to suggest a tool? [Open an issue](https://github.com/litonarefin/awesome-dev-tools/issues) or send a pull request adding it to the right category - entries that are not toolz.dev links are kept as they are when this list is regenerated. The toolz.dev entries come from the live site.
