@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **231+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **309+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 231 tools across 28 categories · last updated 2026-09-23
+> 309 tools across 28 categories · last updated 2026-09-24
 
 ---
 
@@ -43,9 +43,86 @@ A curated directory of **231+ free, browser-based tools** from [toolz.dev](https
 
 ## AI Tools
 
+- [AI Alt Text Generator](https://toolz.dev/tools/ai-alt-text-generator) - Describe an image in words and get three alt texts (short, detailed and SEO-friendly) for your context. Free, no signup, and your text is not stored.
+- [AI Apology Letter Generator](https://toolz.dev/tools/ai-apology-letter-generator) - Write a sincere apology letter to a friend, partner, boss, client or teacher that takes responsibility without excuses. Free, no signup, and your text is not stored.
+- [AI Article to Newsletter](https://toolz.dev/tools/ai-article-to-newsletter) - Turn an article or blog post into an email newsletter with a subject line, preview text, short sections and a call to action. Free, no signup, and your text is not stored.
 - [AI Background Remover](https://toolz.dev/tools/background-remover) - Remove the background from any photo with AI, at full resolution, client-side
+- [AI Birthday Wish Generator](https://toolz.dev/tools/ai-birthday-wish-generator) - Write five personal birthday wishes for anyone, from a best friend to your boss, in the style you pick. Free, no signup, and what you type is not stored.
+- [AI Blog Outline Generator](https://toolz.dev/tools/ai-blog-outline-generator) - Turn a blog topic into a full H2 and H3 outline with notes, an FAQ section and a closing call to action. Free, no signup, and your topic is not stored.
+- [AI Blog to Social Media](https://toolz.dev/tools/ai-blog-to-social) - Paste a blog post and get eight ready-to-edit social posts: three for X, two for LinkedIn, two Instagram captions and one for Facebook. Free, no signup, and your draft is not stored.
+- [AI Brand Story Generator](https://toolz.dev/tools/ai-brand-story-generator) - Write an About Us page and brand story from what your business does, how it started and its mission. Free, no signup, and your details are not stored.
+- [AI Business Name Generator](https://toolz.dev/tools/ai-business-name-generator) - Get 20 business name ideas, each with a short reason it works, from an AI model. Free, no signup, and your idea is not stored.
+- [AI Buyer Persona Generator](https://toolz.dev/tools/ai-buyer-persona-generator) - Create two detailed buyer personas for a B2B or B2C product, with assumptions marked. Free, no signup, and your customer notes are not stored.
+- [AI Caption Generator](https://toolz.dev/tools/ai-caption-generator) - Write five social media captions for Instagram, Facebook, TikTok, X or LinkedIn in the mood you pick. Free, no signup, and what you type is not stored.
+- [AI Code Generator](https://toolz.dev/tools/ai-code-generator) - Describe what the code should do and get commented code in one of 15 languages, from Python and TypeScript to SQL and Bash, with an explanation and a usage example.
+- [AI Cold Email Generator](https://toolz.dev/tools/ai-cold-email-generator) - Write three short cold email variations with subject lines and a day-4 follow-up for sales outreach. Free, no signup, and prospect details are not stored.
+- [AI Content Calendar Generator](https://toolz.dev/tools/ai-content-calendar-generator) - Plan two weeks, 30 days or a quarter of posts across your platforms, with a caption idea for each. Free, no signup, and your plans are not stored.
+- [AI Content Detector](https://toolz.dev/tools/ai-content-detector) - Get an estimate of whether text reads as AI-generated, human-written or mixed, with the quoted signals behind it. Free, no signup, and the text is not stored.
+- [AI Content to Video Script](https://toolz.dev/tools/ai-content-to-video-script) - Turn an article or blog post into a spoken video script with a hook, intro, sections, B-roll ideas and an outro. Free, no signup, and your content is not stored.
+- [AI Content Writer](https://toolz.dev/tools/ai-content-writer) - Draft blog posts, ad copy, product descriptions, emails, social posts, headlines, slogans and bios in six tones. Free, no signup, and your brief is not stored.
+- [AI Course Outline Generator](https://toolz.dev/tools/ai-course-outline-generator) - Design a course outline with learning outcomes, modules, lessons and exercises. Free, no signup, and your course idea is not stored.
+- [AI Cover Letter Generator](https://toolz.dev/tools/ai-cover-letter-generator) - Write a cover letter for a specific job and company from your experience. Free, no signup, and your details are not stored.
+- [AI Elevator Pitch Generator](https://toolz.dev/tools/ai-elevator-pitch-generator) - Write three 30 or 60 second elevator pitches from a few lines about what you do. Free, no signup, and what you type is not stored.
+- [AI Email Subject Line Generator](https://toolz.dev/tools/ai-email-subject-line-generator) - Generate 15 email subject lines in mixed styles, plus preview text for the best five. Free, no signup, and campaign details are not stored.
+- [AI Email Writer](https://toolz.dev/tools/ai-email-writer) - Write a follow-up, request, thank-you, apology or meeting email in five tones, subject line included. Free, no signup, and what you type is not stored.
+- [AI Essay Writer](https://toolz.dev/tools/ai-essay-writer) - Draft a structured essay from a topic, essay type, academic level and target length. Free, no signup, and your topic is not stored.
+- [AI Explain Like I\](https://toolz.dev/tools/ai-explain-like-im-five) - Explain any topic in simple words, with an everyday analogy and one concrete example, for a 5-year-old, a 10-year-old, a teenager or an adult with no background.
+- [AI Facebook Ad Copy Generator](https://toolz.dev/tools/ai-facebook-ad-copy-generator) - Write three Facebook and Instagram ad variations, each with a headline, primary text, description and call-to-action button. Free, no signup, and your product details are not stored.
+- [AI FAQ Generator](https://toolz.dev/tools/ai-faq-generator) - Write an FAQ section of 6 to 12 questions and answers about a product, service or topic. Free, no signup, and your description is not stored.
+- [AI Google Ads Copy Generator](https://toolz.dev/tools/ai-google-ads-copy-generator) - Write 15 headlines, 4 descriptions, sitelink ideas and callouts for a Google responsive search ad. Free, no signup, and your brief is not stored.
+- [AI Grammar Checker](https://toolz.dev/tools/ai-grammar-checker) - Find grammar, spelling and punctuation errors in American, British, Australian or Canadian English, with a reason for each fix and a corrected copy. Free, and your text is not stored.
+- [AI Hashtag Generator](https://toolz.dev/tools/ai-hashtag-generator) - Generate 10 to 30 hashtags for an Instagram, TikTok, X, LinkedIn or YouTube post, mixing broad, mid-size and niche tags. Free, no signup, and your post is not stored.
+- [AI Hashtag Optimizer](https://toolz.dev/tools/ai-hashtag-optimizer) - Paste your post and the hashtags you use now, and get a review of which to keep, drop or replace plus an improved set. Free, no signup, and your post is not stored.
+- [AI Headline Analyzer](https://toolz.dev/tools/ai-headline-analyzer) - Score a headline out of 100 for a blog, email, YouTube video, news story, landing page or social post, see its strengths and weaknesses, and get five better versions.
+- [AI Image Generator](https://toolz.dev/tools/ai-image-generator) - Turn a text prompt into a 512 x 512 image in a few seconds with an open model on the Toolz server. Eight style presets. Free, no signup.
+- [AI Image to Text (OCR)](https://toolz.dev/tools/ai-image-to-text) - Extract text from a photo or screenshot in 13 languages with Tesseract OCR running in your browser. Free, no signup, and your image is never uploaded.
+- [AI Instagram Caption Generator](https://toolz.dev/tools/ai-instagram-caption-generator) - Write three Instagram captions with a hook first line, a short body, a call to action and the number of hashtags you choose. Free, no signup, and your post is not stored.
+- [AI Interview Questions Generator](https://toolz.dev/tools/ai-interview-questions-generator) - Get 12 interview questions for any role and seniority, with answer guidance for candidates or red flags for interviewers. Free, no signup, and nothing you type is stored.
+- [AI Job Description Generator](https://toolz.dev/tools/ai-job-description-generator) - Turn a job title and a list of duties into a clear, inclusive job description. Free, no signup, and the role details are not stored.
+- [AI Keyword Ideas Generator](https://toolz.dev/tools/ai-keyword-ideas-generator) - Turn a seed topic into 30 keyword ideas grouped by search intent, plus five content ideas. Free, no signup, and your topics are not stored.
+- [AI Landing Page Copy Generator](https://toolz.dev/tools/ai-landing-page-copy-generator) - Draft landing page copy from hero headline to closing call to action. Free, no signup, and your product details are not stored.
+- [AI Letter Writer](https://toolz.dev/tools/ai-letter-writer) - Write a formal, business, complaint, leave, recommendation, permission or request letter in proper letter format. Free, no signup, and your details are not stored.
+- [AI LinkedIn Headline Generator](https://toolz.dev/tools/ai-linkedin-headline-generator) - Write 10 LinkedIn headlines of up to 220 characters from your role, industry and achievements, aimed at your goal. Free, no signup, and your details are not stored.
+- [AI LinkedIn Post Generator](https://toolz.dev/tools/ai-linkedin-post-generator) - Turn an idea, lesson or update into a LinkedIn post with a strong first line, short paragraphs and a closing question. Free, no signup, and your draft is not stored.
+- [AI LinkedIn Summary Generator](https://toolz.dev/tools/ai-linkedin-summary-generator) - Write a 200-300 word LinkedIn About section in the first person from your role, background and achievements. Free, no signup, and your details are not stored.
+- [AI Meeting Agenda Generator](https://toolz.dev/tools/ai-meeting-agenda-generator) - Create a timed meeting agenda with a goal, preparation, owners and a section for decisions. Free, no signup, and your meeting details are not stored.
+- [AI Meta Description Generator](https://toolz.dev/tools/ai-meta-description-generator) - Write six meta descriptions matched to a page\
+- [AI Paraphraser](https://toolz.dev/tools/ai-paraphraser) - Reword any text in six tones while keeping names and numbers intact. Free, no signup, and your text is not stored.
+- [AI Podcast Name Generator](https://toolz.dev/tools/ai-podcast-name-generator) - Get 15 podcast name ideas with a one-line description each, in the style you choose. Free, no signup, and your show idea is not stored.
+- [AI Podcast Show Notes Generator](https://toolz.dev/tools/ai-podcast-show-notes) - Write podcast show notes from an episode summary or transcript highlights: title, summary, key takeaways, quotes and sections. Free, no signup, and your transcript is not stored.
+- [AI Poem Generator](https://toolz.dev/tools/ai-poem-generator) - Write a free verse, rhyming, haiku, sonnet, limerick or acrostic poem in six moods from any subject. Free, no signup, and what you write is not stored.
+- [AI Press Release Generator](https://toolz.dev/tools/ai-press-release-generator) - Write a press release in standard news format, with headline, dateline, quote, boilerplate and media contact. Free, no signup, and your announcement is not stored.
+- [AI Product Description Generator](https://toolz.dev/tools/ai-product-description-generator) - Turn product features into a headline, a benefit paragraph and five bullet points for your store. Free, no signup, and product details are not stored.
+- [AI Product Review Writer](https://toolz.dev/tools/ai-product-review-writer) - Turn your star rating and notes on what you liked and disliked into a clear first-person product review. Free, no signup, and your notes are not stored.
+- [AI Prompt Improver](https://toolz.dev/tools/ai-prompt-improver) - Turn a vague prompt into a specific one for a chat model, an image AI, a coding assistant or a research assistant, with what changed and two alternatives.
+- [AI Quiz Generator](https://toolz.dev/tools/ai-quiz-generator) - Make a quiz from a topic or your own notes, with an answer key and explanations. Free, no signup, and your notes are not stored.
+- [AI Readability Checker](https://toolz.dev/tools/ai-readability-checker) - Get an estimated reading grade level, the hardest sentences, jargon with plainer alternatives and a simplified rewrite for your intended reader. Free, and your text is not stored.
+- [AI Resignation Letter Generator](https://toolz.dev/tools/ai-resignation-letter-generator) - Write a polite resignation letter with your last day, thanks and a handover offer. Free, no signup, and your details are not stored.
+- [AI Resume Writer](https://toolz.dev/tools/ai-resume-writer) - Turn rough notes about your jobs, education and skills into an ATS-friendly resume. Free, no signup, and your personal data is not stored or used for training.
+- [AI Review Response Generator](https://toolz.dev/tools/ai-review-response-generator) - Paste a customer review and get three replies in the tone you choose. Free, no signup, and the review is not stored.
+- [AI SEO Meta Writer](https://toolz.dev/tools/ai-seo-meta-writer) - Write five title tags and five meta descriptions for a page from its target keyword. Free, no signup, and your page copy is not stored.
+- [AI Slogan Generator](https://toolz.dev/tools/ai-slogan-generator) - Write 15 slogans and taglines for a brand in the tone you choose. Free, no signup, and your brand details are not stored.
+- [AI Social Media Bio Generator](https://toolz.dev/tools/ai-social-media-bio-generator) - Write eight profile bios for Instagram, TikTok, X, LinkedIn, YouTube or Threads, sized to each platform\
+- [AI Story Generator](https://toolz.dev/tools/ai-story-generator) - Turn a story idea into flash fiction or a short story in eight genres, from fantasy to children\
+- [AI SWOT Analysis Generator](https://toolz.dev/tools/ai-swot-analysis-generator) - Write a SWOT analysis with strengths, weaknesses, opportunities, threats and three strategies. Free, no signup, and your plans are not stored.
+- [AI Testimonial Request Email](https://toolz.dev/tools/ai-testimonial-request-email) - Write two polite emails asking a client for a review on Google, Trustpilot, LinkedIn or your website. Free, no signup, and client details are not stored.
 - [AI Text Humanizer](https://toolz.dev/tools/ai-text-humanizer) - Rewrite the habits that make prose read as machine-written - inflated vocabulary, hedge phrases, em dashes, and connective filler.
+- [AI Text Summarizer](https://toolz.dev/tools/ai-summarizer) - Summarize articles, reports, email threads and notes in one sentence, a short paragraph, bullet points or a detailed summary. Free, no signup, and your text is not stored.
+- [AI Text to Speech](https://toolz.dev/tools/ai-text-to-speech) - Turn English text into natural speech with 8 voices and a speed control, using Piper TTS. Play it or download a WAV. Free, no signup, text not stored.
+- [AI Thank You Note Generator](https://toolz.dev/tools/ai-thank-you-note-generator) - Write three thank-you notes for a gift, a favor, an interview or a wedding, naming the thing and why it mattered. Free, no signup, and what you type is not stored.
+- [AI TikTok Hashtag Generator](https://toolz.dev/tools/ai-tiktok-hashtag-generator) - Get 30 TikTok hashtags for a video, grouped into broad, niche, long-tail and community tags. Free, no signup, and your video idea is not stored.
+- [AI Tone Detector](https://toolz.dev/tools/ai-tone-detector) - See how an email, message or post comes across: primary tone, sentiment, formality from 1 to 10, undertones and the phrases to change. Free, and your text is not stored.
+- [AI Translator](https://toolz.dev/tools/ai-translator) - Translate text between 20 languages, including Hindi, Tamil, Arabic, Chinese and Japanese, keeping tone and formatting. Free, no signup, and your text is not stored.
+- [AI Twitter Thread Generator](https://toolz.dev/tools/ai-twitter-thread-generator) - Turn a topic into a numbered X (Twitter) thread of 5, 8-10 or 15 posts, each under 280 characters. Free, no signup, and your topic is not stored.
+- [AI Video Hook Generator](https://toolz.dev/tools/ai-video-hook-generator) - Write 10 opening hooks for the first seconds of a YouTube, TikTok, Reels or Shorts video. Free, no signup, and your video idea is not stored.
+- [AI Wedding Speech Generator](https://toolz.dev/tools/ai-wedding-speech-generator) - Draft a 2 to 5 minute wedding speech for the best man, maid of honor, a parent or the couple, built from your own stories. Free, no signup, and your stories are not stored.
 - [AI Writing Checker](https://toolz.dev/tools/ai-writing-checker) - Measure the patterns that make text read as machine-written: sentence-length variation, overused vocabulary, hedging and em dash density.
+- [AI YouTube Channel Analyzer](https://toolz.dev/tools/ai-youtube-channel-analyzer) - Paste your own numbers from YouTube Studio and recent video views, and an AI model explains what they show and gives a 5-point plan. Free, no signup, and your data is not stored.
+- [AI YouTube Channel Name Generator](https://toolz.dev/tools/ai-youtube-channel-name-generator) - Get 15 YouTube channel name ideas for your niche and style, each with a line on why it works. Free, no signup, and your ideas are not stored.
+- [AI YouTube Description Generator](https://toolz.dev/tools/ai-youtube-description-generator) - Write a full YouTube video description, with a strong opening, chapters, links and hashtags. Free, no signup, and your summary is not stored.
+- [AI YouTube Script Generator](https://toolz.dev/tools/ai-youtube-script-generator) - Draft a YouTube video script with a hook, intro, sections and outro in five styles. Free, no signup, and your video idea is not stored.
+- [AI YouTube Tag Generator](https://toolz.dev/tools/ai-youtube-tag-generator) - Generate 30 YouTube tags for a video, mixing broad, long-tail and variant spellings. Free, no signup, and your title is not stored.
+- [AI YouTube Title Generator](https://toolz.dev/tools/ai-youtube-title-generator) - Get 10 YouTube title ideas for your video in four styles. Free, no signup, and your video idea is not stored.
 - [Claude Watermark Remover & Detector](https://toolz.dev/tools/claude-watermark-remover) - Detect and remove invisible Unicode characters from AI text - zero-width joiners, variation selectors, bidi controls, and tag characters.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 - [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
@@ -573,6 +650,7 @@ A curated directory of **231+ free, browser-based tools** from [toolz.dev](https
 - [HTTP Status Codes Reference](https://toolz.dev/tools/http-status-codes) - Searchable list of every HTTP status code with its meaning, category, and defining RFC. Look up 200, 301, 404, 500, and more.
 - [IP Subnet Calculator](https://toolz.dev/tools/ip-subnet-calculator) - Calculate the network address, broadcast, usable host range, subnet mask, and host count for any IPv4 address and CIDR prefix.
 - [User Agent Parser](https://toolz.dev/tools/user-agent-parser) - Paste a User-Agent string and read the browser, rendering engine, operating system, device type and CPU it describes, all in your browser.
+- [WHOIS Checker](https://toolz.dev/tools/whois-checker) - Look up the registry record for any domain: registrar, registration and expiry dates, status codes, nameservers, DNSSEC and the raw WHOIS record.
 - [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 - [Appwrite](https://appwrite.io/) - Secure backend server for web and mobile apps.
 - [AWS](https://aws.amazon.com/) - Comprehensive cloud computing services platform.
@@ -652,6 +730,8 @@ A curated directory of **231+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
