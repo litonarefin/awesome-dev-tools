@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **309+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **312+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 309 tools across 28 categories · last updated 2026-09-24
+> 312 tools across 29 categories · last updated 2026-09-25
 
 ---
 
@@ -38,6 +38,7 @@ A curated directory of **309+ free, browser-based tools** from [toolz.dev](https
 - [Time & Date](#time-date)
 - [URL & Links](#url-links)
 - [Web Tools](#web-tools)
+- [wordpress](#wordpress)
 
 ---
 
@@ -686,6 +687,12 @@ A curated directory of **309+ free, browser-based tools** from [toolz.dev](https
 - [Vercel](https://vercel.com/) - Frontend cloud for static sites and serverless functions.
 - [WebPageTest](https://www.webpagetest.org/) - Free website speed test from multiple locations.
 
+## wordpress
+
+- [WordPress Plugin Detector](https://toolz.dev/tools/plugin-detector) - See which WordPress plugins load on any page, with the folder slug, the version, the install count and the evidence each one came from.
+- [WordPress Readme Generator](https://toolz.dev/tools/wp-readme-generator) - Write a plugin readme.txt the WordPress.org directory parses, with a live preview of the listing it produces and a download when it is right.
+- [WordPress Theme Detector](https://toolz.dev/tools/theme-detector) - Find out which WordPress theme a site runs, with the version, the author, the parent theme and the evidence each answer came from.
+
 ---
 
 ## Resources
@@ -730,6 +737,8 @@ A curated directory of **309+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
