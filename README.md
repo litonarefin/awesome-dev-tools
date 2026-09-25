@@ -493,6 +493,7 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [Crontab Guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
 - [Devhints](https://devhints.io/) - A ridiculous collection of cheatsheets.
 - [Draw.io](https://app.diagrams.net/) - Free online diagram software.
+- [Drawbly](https://drawbly.com/) - Freehand browser canvas for rough technical diagrams with editable text; free PNG exports include a Drawbly credit.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn diagrams.
 - [explainshell](https://explainshell.com/) - Write down a command and see the help text for each argument.
 - [IT Tools](https://it-tools.tech/) - Collection of handy online tools for developers.
