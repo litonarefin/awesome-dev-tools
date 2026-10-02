@@ -232,6 +232,7 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [VSCode](https://code.visualstudio.com/) - Popular, extensible open-source editor by Microsoft.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - IDE for JavaScript and web development.
+- [YYLO](https://github.com/yylo-dev/yylo) - Open-source CLI for Kanban, task state, and merge orchestration across coding-agent worktrees.
 - [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 
 ## Color Tools
