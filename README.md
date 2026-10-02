@@ -454,6 +454,7 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [WebP to PNG Converter](https://toolz.dev/tools/webp-to-png) - Convert WebP images to PNG in your browser, in batches, with transparency kept
 - [Favicon Generator](https://toolstrive.com/tools/favicon-generator.html) - Create browser, Apple touch, and PWA favicon packages from PNG, JPG, or WebP images.
 - [Favicon.io](https://favicon.io/) - Generate favicons from text, image, or emoji.
+- [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII character art locally in the browser, with width and dithering controls and TXT, PNG and SVG exports; free without signup.
 - [Photopea](https://www.photopea.com/) - Free online photo editor that works like Photoshop.
 - [Placeholder.com](https://placeholder.com/) - Generate placeholder images of any size.
 - [Remove.bg](https://www.remove.bg/) - Remove image backgrounds automatically.
