@@ -366,6 +366,7 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [Google Docs](https://docs.google.com/) - Free online document editor.
 - [HackMD](https://hackmd.io/) - Collaborative Markdown knowledge base.
 - [HedgeDoc](https://hedgedoc.org/) - Open-source collaborative Markdown editor.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and MCP access through scoped, expiring grants.
 - [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base.
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes, docs, and collaboration.
 - [Obsidian](https://obsidian.md/) - Private and flexible knowledge base with Markdown.
