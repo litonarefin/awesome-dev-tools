@@ -125,6 +125,7 @@ A curated directory of **314+ free, browser-based tools** from [toolz.dev](https
 - [AI YouTube Script Generator](https://toolz.dev/tools/ai-youtube-script-generator) - Draft a YouTube video script with a hook, intro, sections and outro in five styles. Free, no signup, and your video idea is not stored.
 - [AI YouTube Tag Generator](https://toolz.dev/tools/ai-youtube-tag-generator) - Generate 30 YouTube tags for a video, mixing broad, long-tail and variant spellings. Free, no signup, and your title is not stored.
 - [AI YouTube Title Generator](https://toolz.dev/tools/ai-youtube-title-generator) - Get 10 YouTube title ideas for your video in four styles. Free, no signup, and your video idea is not stored.
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업용 만화 리더는 모든 지원 언어의 개인 일괄·맞춤 번역, 스튜디오의 완전한 온라인 Photoshop형 편집, 개인 작업 흐름용 API를 제공합니다.
 - [Claude Watermark Remover & Detector](https://toolz.dev/tools/claude-watermark-remover) - Detect and remove invisible Unicode characters from AI text - zero-width joiners, variation selectors, bidi controls, and tag characters.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 - [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
