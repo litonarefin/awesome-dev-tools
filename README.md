@@ -460,6 +460,7 @@ A curated directory of **334+ free, browser-based tools** from [toolz.dev](https
 - [PFP Maker](https://toolz.dev/tools/pfp-maker) - Crop a photo into a square or circle profile picture at the size you need. Drag to position, zoom to frame it, and export PNG or JPG without uploading anything.
 - [PNG to GIF Converter](https://toolz.dev/tools/png-to-gif) - Convert PNG images to GIF in your browser, in batches, no upload needed
 - [PNG to ICO Converter](https://toolz.dev/tools/png-to-ico) - Convert PNG images to ICO favicons in your browser, in batches
+- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, WebP, and SVG images to ICO files in your browser.
 - [PNG to JPG Converter](https://toolz.dev/tools/png-to-jpg) - Convert PNG images to JPG in your browser, in batches, no upload needed
 - [PNG to PDF Converter](https://toolz.dev/tools/png-to-pdf) - Put PNG screenshots and graphics into one PDF without losing detail, one page per image, in your browser
 - [PNG to SVG Converter](https://toolz.dev/tools/png-to-svg) - Trace a PNG logo or icon into an SVG of filled shapes with 2, 8 or 16 colors. It does not recover the original vector design, and photos give large, blotchy SVGs
