@@ -333,6 +333,7 @@ A curated directory of **334+ free, browser-based tools** from [toolz.dev](https
 - [XML Formatter](https://toolz.dev/tools/xml-formatter) - Format, beautify, minify, and validate XML online - preserves comments, CDATA, and attribute order, with clear error reporting
 - [XML to JSON Converter](https://toolz.dev/tools/xml-to-json) - Convert XML to clean, valid JSON instantly - handles attributes, nested elements, repeated tags, and CDATA
 - [YAML to JSON Converter](https://toolz.dev/tools/yaml-to-json) - Convert YAML to JSON instantly - anchors, aliases, merge keys, block scalars and multi-document streams supported
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - API and MCP for searching indexed videos and podcasts with timestamped source links. Free tier with an account.
 - [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps workflows.
 - [CSV Lint](https://csvlint.io/) - Validate CSV files against schemas.
 - [Datasette](https://datasette.io/) - Explore and publish data from SQLite databases.
