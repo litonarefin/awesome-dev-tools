@@ -690,6 +690,7 @@ A curated directory of **334+ free, browser-based tools** from [toolz.dev](https
 - [BuiltWith](https://builtwith.com/) - Web technology profiler.
 - [Can I Use](https://caniuse.com/) - Browser support tables for front-end technologies.
 - [CircleCI](https://circleci.com/) - Continuous integration and delivery platform.
+- [deed.page](https://deed.page/) - Free static hosting that publishes an HTML file or folder with one HTTP PUT and returns a public HTTPS link.
 - [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 - [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 - [Directus](https://directus.io/) - Real-time data platform and CMS.
