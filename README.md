@@ -539,6 +539,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Miro](https://miro.com/) - Online whiteboard for collaboration.
 - [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 - [Omatsuri](https://omatsuri.app/) - Open-source browser tools for everyday use.
+- [Online Ruler](https://onlineruler.app/) - On-screen 1:1 ruler in centimeters or inches for measuring objects against your display.
 - [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 - [React Developer Tools](https://github.com/facebook/react-devtools) - Inspect React component hierarchies.
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Time-traveling debugger for Redux.
