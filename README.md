@@ -569,6 +569,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [Word to PDF](https://toolz.dev/tools/word-to-pdf) - Convert a .docx to PDF in your browser. Headings, paragraphs and lists are typeset onto A4, Letter or A5 pages. The document is never uploaded.
 - [DocuPub](https://docupub.com/pdfconvert/) - Online PDF converter.
 - [iLovePDF](https://www.ilovepdf.com/) - Every tool you need to work with PDFs.
+- [Mdpresso](https://mdpresso.com/) - Splits PDFs by page range or saves every page as a separate file, entirely in the browser.
 - [PDF.js](https://mozilla.github.io/pdf.js/) - PDF viewer built with HTML5 by Mozilla.
 - [PDF24](https://tools.pdf24.org/) - Free and easy-to-use online PDF tools.
 - [Sejda](https://www.sejda.com/) - Online PDF editor with merge, split, and compress.
