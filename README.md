@@ -573,6 +573,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 - [DocuPub](https://docupub.com/pdfconvert/) - Online PDF converter.
 - [iLovePDF](https://www.ilovepdf.com/) - Every tool you need to work with PDFs.
 - [Mdpresso](https://mdpresso.com/) - Splits PDFs by page range or saves every page as a separate file, entirely in the browser.
+- [PDF HEAVEN](https://pdf-heaven.vercel.app/) - Use 69 free, client-side PDF tools to merge, split, convert, OCR and redact PDFs in English or Dutch, without document uploads or signup.
 - [PDF.js](https://mozilla.github.io/pdf.js/) - PDF viewer built with HTML5 by Mozilla.
 - [PDF24](https://tools.pdf24.org/) - Free and easy-to-use online PDF tools.
 - [Sejda](https://www.sejda.com/) - Online PDF editor with merge, split, and compress.
