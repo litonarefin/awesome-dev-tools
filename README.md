@@ -139,6 +139,7 @@ A curated directory of **345+ free, browser-based tools** from [toolz.dev](https
 
 ## Astrology
 
+- [Bazi Diff](https://bazi-diff.pages.dev/) - Free BaZi Four Pillars chart with a work-style reading and worked examples.
 - [Birth Chart Calculator](https://toolz.dev/tools/birth-chart-calculator) - Cast a full natal chart from your birth date, time and place - ten bodies, house cusps in three systems, every aspect with its orb, and a chart wheel
 - [Chiron Sign Calculator](https://toolz.dev/tools/chiron-sign-calculator) - Find your Chiron sign - the "wounded healer" - from your birth date, computed from a JPL Horizons ephemeris rather than an approximate date table
 - [Dating & Personal Growth Calendar](https://toolz.dev/tools/dating-and-growth-calendar) - A transit calendar for the months ahead: which days carry supportive contacts to your birth chart, which carry friction, and which are quiet
