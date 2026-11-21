@@ -482,6 +482,7 @@ A curated directory of **346+ free, browser-based tools** from [toolz.dev](https
 - [Favicon.io](https://favicon.io/) - Generate favicons from text, image, or emoji.
 - [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII character art locally in the browser, with width and dithering controls and TXT, PNG and SVG exports; free without signup.
 - [Photopea](https://www.photopea.com/) - Free online photo editor that works like Photoshop.
+- [PixelArtHive](https://pixelarthive.com/) - Convert images to pixel art and resize pixel graphics locally in the browser.
 - [Placeholder.com](https://placeholder.com/) - Generate placeholder images of any size.
 - [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, WebP, and SVG images to ICO files in your browser.
 - [Remove.bg](https://www.remove.bg/) - Remove image backgrounds automatically.
