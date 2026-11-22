@@ -484,6 +484,7 @@ A curated directory of **346+ free, browser-based tools** from [toolz.dev](https
 - [Photopea](https://www.photopea.com/) - Free online photo editor that works like Photoshop.
 - [Placeholder.com](https://placeholder.com/) - Generate placeholder images of any size.
 - [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, WebP, and SVG images to ICO files in your browser.
+- [Reletter](https://aiedittextinimage.com/) - Correct existing text in screenshots and mockups with browser OCR and free watermarked previews.
 - [Remove.bg](https://www.remove.bg/) - Remove image backgrounds automatically.
 - [Shields.io](https://shields.io/) - Concise, consistent, and legible badges for READMEs.
 - [Squoosh](https://squoosh.app/) - Image compression web app by Google.
