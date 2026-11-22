@@ -355,6 +355,7 @@ A curated directory of **346+ free, browser-based tools** from [toolz.dev](https
 - [JSON Diff Checker](https://toolz.dev/tools/json-diff) - Compare two JSON documents structurally and see added, removed, and changed keys with exact paths
 - [XML Diff Checker](https://toolz.dev/tools/xml-diff) - Compare two XML documents structurally and see which elements, attributes, and text values were added, removed, or changed, by node path rather than by line. 100% client-side.
 - [Beyond Compare](https://www.scootersoftware.com/) - Compare files, folders, and more.
+- [ClearPDF Compare PDFs](https://www.openclawhirehuman.com/tools/compare-pdf) - Compare extracted text page by page from two PDFs and download a plain-text report.
 - [Diffchecker](https://www.diffchecker.com/) - Online diff tool to compare text, images, PDFs, and more.
 - [JSON Diff](https://www.jsondiff.com/) - Compare two JSON objects and find differences.
 - [Meld](https://meldmerge.org/) - Visual diff and merge tool.
