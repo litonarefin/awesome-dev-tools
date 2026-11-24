@@ -548,6 +548,7 @@ A curated directory of **346+ free, browser-based tools** from [toolz.dev](https
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Time-traveling debugger for Redux.
 - [SmallDev.tools](https://smalldev.tools/) - Free tools for developers including encoders, formatters, and generators.
 - [tldraw](https://www.tldraw.com/) - A tiny little drawing app in the browser.
+- [Vertov](https://vertov.app/) - Record a screen or browser tab, edit by transcript, and share a link for walkthroughs or bug reports.
 - [Wappalyzer](https://www.wappalyzer.com/) - Identify technologies used on websites.
 - [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 
