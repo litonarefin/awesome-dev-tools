@@ -677,6 +677,7 @@ A curated directory of **346+ free, browser-based tools** from [toolz.dev](https
 - [Time Duration Calculator](https://toolz.dev/tools/time-duration-calculator) - Calculate the duration between two times, add or subtract hours and minutes from a time, and total a list of durations for timesheets.
 - [Date Calculator](https://www.timeanddate.com/date/dateadd.html) - Add or subtract days, months, years to/from a date.
 - [Every Time Zone](https://everytimezone.com/) - Visualize time zones at a glance.
+- [Military Time](https://militarytime.app/) - Convert between 12-hour and military time, with spoken forms and shift-hour calculations.
 - [Time.is](https://time.is/) - Exact time for any time zone.
 - [Timestamp Converter](https://www.timestamp-converter.com/) - Convert Unix timestamps to dates and back.
 - [World Time Buddy](https://www.worldtimebuddy.com/) - World clock and time zone converter.
