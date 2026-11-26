@@ -643,6 +643,7 @@ A curated directory of **346+ free, browser-based tools** from [toolz.dev](https
 ## Social Media
 
 - [Carousel Scroll Generator](https://toolz.dev/tools/scroll-generator) - Split a panorama into Instagram carousel slides that line up edge to edge, so swiping through the post scrolls the picture with no seam
+- [ClearCaption](https://github.com/Andrii2203/clearcaption-youtube-transcript) - YouTube transcripts, SRT/VTT subtitles and timestamped translation for videos, channels and playlists; works from cloud servers and as an MCP server
 - [Image Watermarker](https://toolz.dev/tools/watermarker) - Add a logo or signature watermark to an image, positioned in any corner or tiled across the whole frame, with size, opacity and rotation you control
 - [Matte Generator](https://toolz.dev/tools/matte-generator) - Put a non-square image on a square or portrait matte so the whole picture survives the feed, with a blurred backdrop, padding, rounded corners and a shadow
 - [Photo Card Generator](https://toolz.dev/tools/photo-card-generator) - Create professional photo cards, news graphics, quote cards, and social media posts with customizable templates.
